@@ -36,7 +36,7 @@ Data Cleaning • Data Transformation • Data Modeling • DAX • Data Visuali
 
 ## 📂 Repository Contents
 
-* `Dashboard.pbix` – Power BI project file
+* `project.pbix` – Power BI project file
 * `spotify_history.csv` – Dataset
 * `dashboard_preview.png` – Dashboard screenshot
 * `README.md` – Project documentation
