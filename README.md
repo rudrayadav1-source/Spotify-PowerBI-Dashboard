@@ -1,34 +1,43 @@
-# Spotify Listening Analysis Dashboard
+# 🎵 Spotify Streaming Performance & Listening Analysis
 
-## Project Overview
-This Power BI dashboard analyzes Spotify listening history to uncover trends in music streaming behavior.
+## 📖 Overview
 
-## Features
-- Total Streams
-- Listening Hours
-- Top Artists
-- Top Tracks
-- Time Period Analysis
-- Completion Status
-- Listening Category
+This project is an interactive **Power BI dashboard** developed to analyze Spotify listening history and transform raw streaming data into meaningful insights. Using **Power Query** for data preparation and **DAX** for calculations, the dashboard provides an in-depth view of listening behavior, streaming trends, artist popularity, and track performance through interactive visualizations.
 
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- Excel
+## 🎯 Objectives
 
-## Dashboard Preview
-<img width="1343" height="733" alt="Screenshot 2026-07-13 214302" src="https://github.com/user-attachments/assets/792657fd-a4f4-4bd3-ab99-b3c75198f6c9" />
-<img width="1332" height="733" alt="Screenshot 2026-07-13 214314" src="https://github.com/user-attachments/assets/6841b9f4-df4e-4936-8126-124bb6cc9e46" />
-<img width="1282" height="731" alt="Screenshot 2026-07-13 214322" src="https://github.com/user-attachments/assets/8961dbe5-1812-47d5-a017-72b12dcd2a30" />
+* Analyze Spotify streaming activity and listening patterns.
+* Track total streams, listening hours, and average listening time.
+* Identify top artists and most-played tracks.
+* Measure skip rate and completion status.
+* Visualize listening trends across months, weekdays, and different times of the day.
 
+## 🛠️ Technologies Used
 
+* Power BI Desktop
+* Power Query
+* DAX (Data Analysis Expressions)
+* CSV Dataset
 
+## 📊 Dashboard Highlights
 
+* KPI Cards (Total Streams, Listening Hours, Unique Artists, Skip Rate)
+* Monthly Streaming Trends
+* Top 10 Artists & Tracks
+* Listening Category Analysis
+* Completion Status Distribution
+* Time Period Analysis (Morning, Afternoon, Night)
+* Weekday Listening Trends
+* Ribbon, Funnel, Scatter, Matrix, and Gauge Visualizations
 
-## Dataset
-Spotify Listening History Dataset
+## 🚀 Skills Demonstrated
 
-## Author
-Your Name
+Data Cleaning • Data Transformation • Data Modeling • DAX • Data Visualization • Dashboard Design • Business Intelligence • Analytical Thinking
+
+## 📂 Repository Contents
+
+* `Dashboard.pbix` – Power BI project file
+* `spotify_history.csv` – Dataset
+* `dashboard_preview.png` – Dashboard screenshot
+* `README.md` – Project documentation
+
